@@ -18,10 +18,7 @@ import com.cwm.studentmanagement.dto.CourseDTO;
 import com.cwm.studentmanagement.service.CourseService;
 import jakarta.validation.Valid;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
+
 
 @Controller
 @RequestMapping("/course")

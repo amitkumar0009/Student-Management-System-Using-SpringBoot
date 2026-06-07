@@ -8,10 +8,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
+
 
 @Entity
 @Table(name="users")

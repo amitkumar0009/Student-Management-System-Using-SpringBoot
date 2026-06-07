@@ -13,10 +13,6 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotNull;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
 
 @Entity
 @Table(name="enrollment")

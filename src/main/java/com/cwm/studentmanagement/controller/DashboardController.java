@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import com.cwm.studentmanagement.service.DashboardService;
 import com.cwm.studentmanagement.service.EnrollmentService;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
 
 @Controller
 public class DashboardController {

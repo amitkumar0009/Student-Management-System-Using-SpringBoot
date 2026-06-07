@@ -19,11 +19,6 @@ import com.cwm.studentmanagement.service.StudentService;
 
 import jakarta.validation.Valid;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
-
 @Controller
 @RequestMapping("/students")
 public class StudentController {

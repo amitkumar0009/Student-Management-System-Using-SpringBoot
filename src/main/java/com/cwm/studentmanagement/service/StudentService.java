@@ -7,10 +7,6 @@ import org.springframework.data.domain.Page;
 import com.cwm.studentmanagement.dto.EnrollmentSummaryDTO;
 import com.cwm.studentmanagement.dto.StudentDTO;
 
-/*
- * Copyright (c) 2026 Mahesh Shet
- * Licensed under the MIT License.
- */
 
 public interface StudentService {
 	
